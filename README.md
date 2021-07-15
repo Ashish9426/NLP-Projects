@@ -1,2 +1,2 @@
 # NLP-Projects
-# This Repository contains multiple Machine Learning projects created by me!
+This Repository contains multiple NLP projects created by me!
